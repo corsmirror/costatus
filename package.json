@@ -1,7 +1,7 @@
 {
-  "name": "npm-package-typescript-template",
+  "name": "costatus",
   "version": "1.0.0-alpha",
-  "description": "npm package TypeScript template",
+  "description": "HTTP response status codes",
   "author": "Mark <mark@remarkablemark.org>",
   "main": "cjs/index.js",
   "module": "esm/index.js",
@@ -29,13 +29,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/remarkablemark/npm-package-typescript-template"
+    "url": "https://github.com/corsmirror/costatus"
   },
   "bugs": {
-    "url": "https://github.com/remarkablemark/npm-package-typescript-template/issues"
+    "url": "https://github.com/corsmirror/costatus/issues"
   },
   "keywords": [
-    "npm-package-typescript-template"
+    "costatus",
+    "http",
+    "response",
+    "status",
+    "codes"
   ],
   "devDependencies": {
     "@commitlint/cli": "17.6.6",
