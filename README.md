@@ -46,7 +46,7 @@ Named import:
 import { OK } from 'costatus';
 ```
 
-### CommonJS:
+### CommonJS
 
 Namespace require:
 
