@@ -5,12 +5,14 @@
 [![NPM version](https://img.shields.io/npm/v/costatus.svg)](https://www.npmjs.com/package/costatus)
 [![build](https://github.com/corsmirror/costatus/actions/workflows/build.yml/badge.svg)](https://github.com/corsmirror/costatus/actions/workflows/build.yml)
 
-HTTP response status codes.
+[HTTP response status codes.](https://developer.mozilla.org/docs/Web/HTTP/Status)
 
 ## Quick Start
 
 ```ts
-import { name } from 'costatus';
+import { OK } from 'costatus';
+
+console.log(OK); // 200
 ```
 
 ## Installation
@@ -29,8 +31,32 @@ yarn add costatus
 
 ## Usage
 
+### ES Modules
+
+Namespace import:
+
 ```ts
-import { name } from 'costatus';
+import * as costatus from 'costatus';
+```
+
+Named import:
+
+```ts
+import { OK } from 'costatus';
+```
+
+### CommonJS:
+
+Namespace require:
+
+```ts
+const costatus = require('costatus');
+```
+
+Named require:
+
+```ts
+const { OK } = require('costatus');
 ```
 
 ## Release
