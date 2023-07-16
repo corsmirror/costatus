@@ -4,8 +4,9 @@
 
 [![NPM version](https://img.shields.io/npm/v/costatus.svg)](https://www.npmjs.com/package/costatus)
 [![build](https://github.com/corsmirror/costatus/actions/workflows/build.yml/badge.svg)](https://github.com/corsmirror/costatus/actions/workflows/build.yml)
+[![codecov](https://codecov.io/gh/corsmirror/costatus/branch/master/graph/badge.svg?token=OX7UM4QNPB)](https://codecov.io/gh/corsmirror/costatus)
 
-[HTTP response status codes.](https://developer.mozilla.org/docs/Web/HTTP/Status)
+[HTTP response status codes.](https://developer.mozilla.org/docs/Web/HTTP/Status) See [docs](https://corsmirror.github.io/costatus/).
 
 ## Quick Start
 
@@ -65,4 +66,4 @@ Release is automated with [Release Please](https://github.com/googleapis/release
 
 ## License
 
-[MIT](https://github.com/remarkablemark/costatus/blob/master/LICENSE)
+[MIT](https://github.com/corsmirror/costatus/blob/master/LICENSE)
