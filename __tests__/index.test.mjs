@@ -2,7 +2,7 @@ import { it } from 'node:test';
 
 import assert from 'assert';
 
-import { INTERNAL_SERVER_ERROR, NOT_FOUND, OK } from '../esm/index.js';
+import { INTERNAL_SERVER_ERROR, NOT_FOUND, OK } from '../cjs/index.js';
 
 it('exports 200 OK', () => {
   assert.strictEqual(OK, 200);
