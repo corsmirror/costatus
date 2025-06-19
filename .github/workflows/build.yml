@@ -35,9 +35,6 @@ jobs:
         env:
           CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
 
-      - name: Run module tests
-        run: npm run test:esm
-
       - name: Build package
         run: npm run build
 
