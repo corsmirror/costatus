@@ -1,6 +1,6 @@
 {
   "name": "costatus",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "HTTP response status codes",
   "author": "Mark <mark@remarkablemark.org>",
   "main": "cjs/index.js",
