@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.3 (2026-09-04)
+
+
+### Miscellaneous Chores
+
+* release 1.0.3 ([11d8ec0](https://github.com/corsmirror/costatus/commit/11d8ec0e64db75311f989f5d582fc1b6e65d814f))
+
 ## [1.0.3](https://github.com/corsmirror/costatus/compare/v1.0.2...v1.0.3) (2025-08-05)
 
 ### Miscellaneous Chores
