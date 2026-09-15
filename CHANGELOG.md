@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.4](https://github.com/corsmirror/costatus/compare/v1.0.3...v1.0.4) (2026-09-15)
+
+### Continuous Integration
+
+- **github:** set up trusted publishing (OIDC) in release-please.yml ([e7279bf](https://github.com/corsmirror/costatus/commit/e7279bf86578343f5361454ac3a141848bf9415a))
+
 ## [1.0.3](https://github.com/corsmirror/costatus/compare/v1.0.2...v1.0.3) (2025-08-05)
 
 ### Miscellaneous Chores
