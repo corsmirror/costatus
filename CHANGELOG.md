@@ -1,10 +1,16 @@
 # Changelog
 
-## [1.0.4](https://github.com/corsmirror/costatus/compare/v1.0.3...v1.0.4) (2026-09-15)
+## 1.0.4 (2026-09-15)
+
+
+### Miscellaneous Chores
+
+* release 1.0.3 ([11d8ec0](https://github.com/corsmirror/costatus/commit/11d8ec0e64db75311f989f5d582fc1b6e65d814f))
+
 
 ### Continuous Integration
 
-- **github:** set up trusted publishing (OIDC) in release-please.yml ([e7279bf](https://github.com/corsmirror/costatus/commit/e7279bf86578343f5361454ac3a141848bf9415a))
+* **github:** set up trusted publishing (OIDC) in release-please.yml ([e7279bf](https://github.com/corsmirror/costatus/commit/e7279bf86578343f5361454ac3a141848bf9415a))
 
 ## [1.0.3](https://github.com/corsmirror/costatus/compare/v1.0.2...v1.0.3) (2025-08-05)
 
