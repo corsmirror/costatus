@@ -1,13 +1,15 @@
 {
   "compilerOptions": {
-    "target": "es5",
-    "module": "commonjs",
+    "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.tsbuildinfo",
+    "target": "es6",
+    "module": "node20",
+    "noEmit": true,
     "declaration": true,
     "declarationMap": true,
     "sourceMap": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
-    "outDir": "cjs"
+    "types": ["jest", "node"]
   },
-  "include": ["src"]
+  "include": ["src", "__tests__", "eslint.config.mts", "jest.config.ts"]
 }
