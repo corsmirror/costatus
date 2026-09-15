@@ -9,7 +9,7 @@
     "sourceMap": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
-    "types": ["jest", "node"]
+    "types": ["vitest/globals", "node"]
   },
-  "include": ["src", "__tests__", "eslint.config.mts", "jest.config.ts"]
+  "include": ["src", "__tests__", "eslint.config.mts", "vitest.config.mts"]
 }
